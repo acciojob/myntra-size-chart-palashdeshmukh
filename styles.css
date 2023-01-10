@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black;
+	margin:0;
+}
+table th{
+	border:1px solid black;
+	padding:1.2rem 3rem;
+}
+table td{
+	border:1px solid black;
+	padding:0.5rem 3rem;
+}
